@@ -3,18 +3,12 @@ Welcome
 
 You have arrived.
 
-Key Features Of This Website
--------------
+*Why are you here?* 
 
-- It wastes your time
-- That's it.
+insert excuse
 
-
---------------
+Wait don't go..
 
 ```
-Don't go. It's sad here.
+It gets lonely here
 ```
-
-
-Bye.
